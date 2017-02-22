@@ -15,4 +15,11 @@
 	min-height: 400px;
 	background: #c5c5d1;
 	width: 75%;
+	float: left;
+}
+
+.sidebar{
+	width: 200px;
+	float: right;
+	min-height: 400 px;
 }
