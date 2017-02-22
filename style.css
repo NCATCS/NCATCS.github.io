@@ -24,3 +24,10 @@
 	float: right;
 	min-height: 400 px;
 }
+
+.footer{
+	clear: both;
+	height: 40px;
+	text-align: center;
+	padding: 10px;
+}
