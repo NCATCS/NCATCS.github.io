@@ -1,4 +1,4 @@
-#Welcome to the code behind NC A&T's open-source GEEN 165 Resource site.
+#Welcome to the code behind NC A&T's open-source [GEEN 165 Resource site](https://ncandtcs.github.io).
 
 ##What is open source?
 Open-source is a term used to describe any program, website, or other project where the source code for that project is publicly available. GitHub hosts the largest collection of open source projects in the world.
