@@ -24,6 +24,7 @@
 	width: 75%;
 	float: left;
 	border-radius: 10px;
+	padding: 10px;
 }
 
 .sidebar{
@@ -31,6 +32,7 @@
 	float: right;
 	min-height: 400 px;
 	border-radius: 10px;
+	padding: 10px;
 }
 
 .footer{
