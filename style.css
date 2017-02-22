@@ -10,3 +10,9 @@
 	padding: 20px;
 	text-align: center;
 }
+
+.content{
+	min-height: 400px;
+	background: #c5c5d1;
+	width: 75%;
+}
