@@ -1,3 +1,8 @@
+*{
+	font-family: sans-serif;
+	margin: 0;
+}
+
 .wrapper{
 	width: 80%;
 	border: 1px solid black;
@@ -18,12 +23,16 @@
 	background: #c5c5d1;
 	width: 75%;
 	float: left;
+	border-radius: 10px;
+	padding: 10px;
 }
 
 .sidebar{
 	width: 200px;
 	float: right;
 	min-height: 400 px;
+	border-radius: 10px;
+	padding: 10px;
 }
 
 .footer{
