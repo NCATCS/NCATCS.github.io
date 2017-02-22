@@ -23,12 +23,14 @@
 	background: #c5c5d1;
 	width: 75%;
 	float: left;
+	border-radius: 10px;
 }
 
 .sidebar{
 	width: 200px;
 	float: right;
 	min-height: 400 px;
+	border-radius: 10px;
 }
 
 .footer{
