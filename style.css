@@ -3,3 +3,10 @@
 	border: 1px solid black;
 	margin: 0 auto 0 auto;
 }
+
+.heading{
+	height: 100px;
+	background: -webkit-linear-gradient(rgba(39,9,236,0.66) 0%, #ffffff 100%);
+	padding: 20px;
+	text-align: center;
+}
